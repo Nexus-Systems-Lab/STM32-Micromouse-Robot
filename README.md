@@ -6,7 +6,7 @@ This project was collaboratively developed for the **MicroMaze 3.0 Competition**
 
 - **Sithumi** – [GitHub Profile](https://github.com/sithumi-sanilka)
 - **Uvin** – [GitHub Profile](https://github.com/Uvin-Kaveesh)
-- **Ashan** – [GitHub Profile](https://xkingyt.github.io)
+- **Ashan** – [GitHub Profile](https://github.com/Ashanvfx)
 - **Koshika** – [GitHub Profile](https://github.com/koshikafernando25-web)
 
 
